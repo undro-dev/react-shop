@@ -6,8 +6,9 @@ function Footer() {
 					© {new Date().getUTCFullYear()} React Movies by Vitaly Undro
 					<a
 						className='grey-text text-lighten-4 right'
-						href='https://github.com/undro-dev/react-movies'
+						href='https://github.com/undro-dev/react-shop'
 						target='_blank'
+						rel='noreferrer'
 					>
 						Repo
 					</a>
