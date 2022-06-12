@@ -1,6 +1,6 @@
 # React Movies
 
-![Alt-текст](https://raw.githubusercontent.com/undro-dev/react-shop/main/public/screen-app.png?v=3&s=460 "Орк")
+![Alt-текст](https://raw.githubusercontent.com/undro-dev/react-shop/main/screen-app.png?v=3&s=460 "Орк")
 
 ###### Demo: https://undro-dev.github.io/react-shop/
 ## Description:
